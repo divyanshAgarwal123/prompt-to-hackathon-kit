@@ -1,0 +1,19 @@
+PROMPT 2 — CHOOSE AN IDEA YOU CAN PROVE
+Created by Divyansh Agarwal for Prompt to Hackathon: Winning Strategies.
+
+Paste this into the same chat after Prompt 1, or include the brief again.
+---
+Help our team choose a hackathon idea we can demonstrate, not just describe.
+
+Brief and rubric: [paste or refer to the brief already in this chat]
+Team size and skills: [e.g., 3 students; one can code, two can research/design]
+Time to first demo: [e.g., 60 minutes]
+Tools available: [e.g., free ChatGPT, laptop, paper mockup]
+Ideas we already have: [list them, or write "none"]
+
+Suggest at most three distinct ideas. For each, show the specific user, painful task, single demonstrable action, rubric fit, biggest risk, and a test that might show the idea is weak.
+
+Compare the ideas in a short table using the actual rubric. If no rubric was supplied, clearly label your comparison a workshop heuristic and use user value, feasibility, demo clarity, and distinctiveness on a 1–5 scale. Recommend one idea and three features we should cut from its first version. Do not promise it will win or invent demand.
+---
+
+SAVE: One chosen user, problem, demo action, and cut list.

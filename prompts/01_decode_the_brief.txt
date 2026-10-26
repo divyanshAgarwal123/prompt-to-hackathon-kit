@@ -1,0 +1,20 @@
+PROMPT 1 — DECODE THE BRIEF
+Created by Divyansh Agarwal for Prompt to Hackathon: Winning Strategies.
+
+Copy everything below the line into a new ChatGPT chat. Replace the brackets.
+---
+Act as a careful hackathon coach. Read only the challenge and judging information I paste below. Do not invent rules or judge preferences.
+
+Challenge and rules: [paste the actual brief, or the workshop practice brief]
+Judging rubric: [paste it, or write "not provided"]
+
+Return:
+1. The goal in one sentence.
+2. A table of hard requirements, deliverables, and judging criteria. Mark each item as "stated" or "inferred" and point to the supporting sentence.
+3. The three biggest unanswered questions.
+4. A five-item checklist for our final submission.
+
+If the rubric is missing, say that clearly. Do not create an official-sounding rubric.
+---
+
+SAVE: Your one-sentence goal, real requirements, and unanswered questions.

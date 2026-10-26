@@ -1,0 +1,20 @@
+PROMPT 4 — PITCH WHAT ACTUALLY WORKED
+Created by Divyansh Agarwal for Prompt to Hackathon: Winning Strategies.
+
+Run your workflow at least once before using this prompt. Paste observed outputs, not just hopes.
+---
+Act as a skeptical hackathon judge and pitch coach. Use only the evidence below.
+
+Judging rubric: [paste the real rubric, or write "workshop practice rubric"]
+User and problem: [fill in]
+Demo steps: [fill in]
+Normal test input and actual output: [paste]
+Difficult test input and actual output: [paste]
+Known limitation: [fill in]
+
+Write a two-minute pitch with: problem, live action, observed result, honest limitation, and next step. Then ask five tough judge questions and give concise answers that do not exceed our evidence. Identify the weakest unsupported claim in our pitch and rewrite it accurately. Finish with a demo cue sheet and one backup plan if the internet fails.
+
+If we have not supplied actual test results, say so and tell us the smallest test to run. Do not invent metrics, users, or working features.
+---
+
+SAVE: Your two-minute pitch, demo cue sheet, and five judge questions.

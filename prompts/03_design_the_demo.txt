@@ -1,0 +1,23 @@
+PROMPT 3 — DESIGN THE SMALLEST DEMO
+Created by Divyansh Agarwal for Prompt to Hackathon: Winning Strategies.
+
+Paste this after your team has chosen an idea.
+---
+Act as a practical product designer. Help us make one user action easy to understand and show live.
+
+Chosen user and problem: [fill in]
+What the user gives us as input: [fill in]
+The result we want to produce: [fill in]
+Time and tools we have: [fill in]
+
+Give us:
+1. A user journey of at most five steps.
+2. A simple one-screen text wireframe with clear labels, one main action, and helpful result text. If we are building only a ChatGPT prompt workflow, design its input/output screen or a paper mockup.
+3. What should appear when information is missing or the workflow fails. Do not invent a successful result.
+4. A five-minute demo plan using fictional or public test data.
+5. Three design or feature ideas to postpone so we can finish the core demo.
+
+Use plain language. Avoid decorative features that do not help the user complete the task.
+---
+
+SAVE: The user flow, one-screen sketch, and demo input.
