@@ -10,7 +10,7 @@ Four reusable skills and four copy-and-paste prompts help a team move from a hac
 2. Open the numbered files in [`prompts/`](prompts/) and paste them into ChatGPT in order. Replace every `[bracketed field]` with your team's details. This route works with free ChatGPT and does not require installing a skill.
 3. Save the outputs you can verify: your chosen problem, the prompt workflow, a normal test, an edge-case test, and one honest limitation.
 
-If your ChatGPT workspace or Codex supports skills, each folder in [`skills/`](skills/) contains a standalone `SKILL.md`. Install or load only the ones useful for your task. ChatGPT skill installation currently depends on workspace eligibility and settings; a personal Free account should use the prompts above.
+If your ChatGPT workspace or Codex supports skills, each folder in [`skills/`](skills/) contains a standalone `SKILL.md`. Individual ZIPs are in [`downloads/`](downloads/): [brief decoder](downloads/hackathon-brief-decoder.zip), [idea selector](downloads/hackathon-idea-selector.zip), [demo designer](downloads/hackathon-demo-designer.zip), and [judge coach](downloads/hackathon-judge-coach.zip). Each ZIP contains one skill folder. ChatGPT skill installation currently depends on workspace eligibility and settings; a personal Free account should use the prompts above.
 
 ## The four steps
 
