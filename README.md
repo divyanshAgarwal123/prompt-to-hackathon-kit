@@ -31,3 +31,9 @@ If your ChatGPT workspace or Codex supports skills, each folder in [`skills/`](s
 The prompts are text-first so every team can participate with free ChatGPT. Some advanced tools and file uploads have separate limits. Use public or fictional inputs; do not paste passwords, private student records, or personal contact information into a demo.
 
 To download everything from GitHub, open the repository's **Code** menu and choose **Download ZIP**.
+
+## Show this QR in the room
+
+The [download QR image](assets/github-download-qr.png) opens this repository. Project it while students form teams or put it on your final resource slide.
+
+![QR code linking to the Prompt to Hackathon student kit](assets/github-download-qr.png)
